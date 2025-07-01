@@ -1,4 +1,4 @@
-name: pocketbase
+name: doxfood_server
 
 services:
   pocketbase:
